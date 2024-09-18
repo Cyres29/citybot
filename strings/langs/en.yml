@@ -127,7 +127,7 @@ cplay_5: "Yalnızca kanallar desteklenir."
 cplay_6: "» Bu gruba bağlanmak için {0} kanalının <b>sahibi</b> olmanız gerekir.\n<b>Kanalın sahibi :</b> @{1}\n \nAlternatif olarak grubunuzu bu kanala bağlayabilir ve ardından <code>/channelplay linked</code> ile bağlanmayı deneyebilirsiniz"
 cplay_7: "» Kanal oynatma devre dışı bırakıldı."
 
-play_1: "🎙"
+play_1: "😎"
 play_2: "<b>➻ Kanal Oynatma Modu</b>\n\nİşleniyor, lütfen bekleyin...\n\n<b>Bağlantılı Kanal :</b> {0}"
 play_3: "» Sorgu işlenemedi."
 play_4: "<b>Yalnızca yöneticiler oynar</b>\nYalnızca bu sohbetin yöneticilerinin oynamasına izin verilir\n\nOynatma modunu /playmode aracılığıyla değiştirin"
